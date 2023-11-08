@@ -1,0 +1,92 @@
+.header-box {
+    width: 100%; 
+    height: 300px;
+    background-color: #7a3434;
+    background-size: cover; 
+    background-position: center; 
+    text-align: center; 
+    color: #fff; 
+    padding: 20px; 
+}
+
+a {
+    text-decoration: none;
+    color: #009688;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #ff5722;
+}
+
+
+.g1-row-background {
+    background-color: #7a3434;
+    padding: 20px;
+    text-align: center;
+    color: #fff; 
+    margin: auto;
+}
+
+
+form {
+    background-color: #754c4c;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[type="text"], input[type="email"], textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #032b49;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005799;
+}
+
+.vid {
+
+    padding: 10px;
+    margin: auto;
+}
+
+main {
+    background-color: #f0f0f000; 
+    padding: 20px;
+}
+
+h2 {
+    color: #42ab93;
+}
+
+footer {
+    background-color: rgba(51, 51, 51, 0)c2c; 
+    color: #42ab93; 
+}
+
+li {
+        background-color: #00000000;
+        padding: 20px;
+        color: #fff; 
+        margin: auto;
+
+}
+
+a {
+color :rgb(0, 187, 255);
+
+
+}
